@@ -39,7 +39,7 @@ fetch('jogos-turno.json')
 let tabelaClassificacao = document.querySelector('.tabelaClassificacao')
 
 // ler jason das classificações
-fetch('ClassificacaoGrupoUnico.json')
+fetch('classificacaoGrupoUnico.json')
 .then( resposta => resposta.json() )
 .then( dados => {
         // Ordenar os dados do array com objetos
