@@ -95,6 +95,8 @@ h2 {
     width: 25rem;
     text-align: center;
     font-size: 1.25rem;
+    
+
 }
 
 .hero-section p {
@@ -244,7 +246,7 @@ a:hover {
         display: block;
         text-align: center;
     }
-
+    
     .cards {
         flex-direction: row;
         flex-wrap: wrap;
