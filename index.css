@@ -125,6 +125,7 @@ h2 {
     gap: 1.25rem;
     margin-top: -8rem;
     margin-bottom: 4rem;
+
 }
 
 .card {
@@ -133,14 +134,16 @@ h2 {
     box-shadow: 4px 4px 0 var(--color-black);
     max-width: 17rem;
     padding: 2rem 2rem 0 2rem;
-    font-size: 1.4rem;
-    text-align: justify;
+    font-size: 1.2rem;
+    text-align: left;
+    max-height: 25rem;
     
 }
 
 .card:nth-child(2n) {
-    align-self: end;
+    align-self: start;
     background-color: var(--color-secondary);
+    
 }
 
 .card strong {
@@ -151,12 +154,8 @@ h2 {
 
 .card a {
     display: block;
-    margin: 3rem 0 0 auto;
+    margin: 1rem 0 0 auto;
     width: fit-content;
-}
-
-.littlecard {
-    border-radius: 10px;
 }
 
 .littlecard {
