@@ -148,6 +148,14 @@ h2 {
     
 }
 
+.card:nth-child(2n) a:hover {
+    background-color: #3c1969a1;
+    border-radius: 10px;
+    color: var(--color-secondary);
+    border: 1px solid black;
+    transition: 0.5s;
+}
+
 .card strong {
     display: block;
     font-size: 1.5rem;
