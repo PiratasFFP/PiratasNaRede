@@ -121,6 +121,7 @@ header nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin: 1rem auto 0;
+    max-width: 17rem;
 
 }
 
