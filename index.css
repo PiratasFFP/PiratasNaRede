@@ -92,11 +92,10 @@ h2 {
 }
 
 .textodpscard p {
-    width: 25rem;
+    max-width: 25rem;
     text-align: center;
     font-size: 1.25rem;
-    
-
+    margin: auto;
 }
 
 .hero-section p {
@@ -143,6 +142,8 @@ h2 {
 .card:nth-child(2n) {
     align-self: start;
     background-color: var(--color-secondary);
+    max-width: 17rem;
+    max-height: 25rem;
     
 }
 
