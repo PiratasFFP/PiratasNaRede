@@ -16,6 +16,7 @@
 body {
     background: linear-gradient(90deg, #3C1969 0% #F6F111 100%);
     padding: 0 1rem;
+    background-image: url('copapirata/images/PIRATA6.svg');
 }
 
 header,
