@@ -5,20 +5,6 @@
         "rodada": 1,
         "diaSemana": "QUA",
         "data": "28/fev",
-        "hora": "16h",
-        "estadio": "SANTIAGO'S ARENA",
-        "gols_mandante": "",
-        "partida": "MON x GEO",
-        "gols_visitante": "",
-        "mandante": "mon.jpg",
-        "visitante": "geo.jpg"
-    },
-    {
-        "id": 2,
-        "grupo": "ÚNICO",
-        "rodada": 1,
-        "diaSemana": "QUA",
-        "data": "28/fev",
         "hora": "17h",
         "estadio": "SANTIAGO'S ARENA",
         "gols_mandante": "",
@@ -26,6 +12,20 @@
         "gols_visitante": "",
         "mandante": "euc.jpg",
         "visitante": "npn.jpg"
+    },
+    {
+        "id": 2,
+        "grupo": "ÚNICO",
+        "rodada": 1,
+        "diaSemana": "QUA",
+        "data": "28/fev",
+        "hora": "16h",
+        "estadio": "SANTIAGO'S ARENA",
+        "gols_mandante": "",
+        "partida": "MON x GEO",
+        "gols_visitante": "",
+        "mandante": "mon.jpg",
+        "visitante": "geo.jpg"
     },
     {
         "id": 3,
