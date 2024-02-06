@@ -212,30 +212,30 @@
     {
         "id": 16,
         "grupo": "ÚNICO",
-        "rodada": 1,
-        "diaSemana": "QUA",
+        "rodada": 2,
+        "diaSemana": "TER",
         "data": "17/abr",
         "hora": "17h",
         "estadio": "SANTIAGO'S ARENA",
         "gols_mandante": "",
-        "partida": "NPN x EUC",
+        "partida": "EUC x MON",
         "gols_visitante": "",
-        "mandante": "npn.jpg",
-        "visitante": "euc.jpg"
+        "mandante": "euc.jpg",
+        "visitante": "mon.jpg"
     },
     {
         "id": 17,
         "grupo": "ÚNICO",
-        "rodada": 1,
-        "diaSemana": "QUA",
+        "rodada": 2,
+        "diaSemana": "TER",
         "data": "24/abr",
         "hora": "16h",
         "estadio": "SANTIAGO'S ARENA",
         "gols_mandante": "",
-        "partida": "GEO x MON",
+        "partida": "URS x BIO",
         "gols_visitante": "",
-        "mandante": "geo.jpg",
-        "visitante": "mon.jpg"
+        "mandante": "urs.jpg",
+        "visitante": "bio.jpg"
     },
     {
         "id": 18,
@@ -254,30 +254,30 @@
     {
         "id": 19,
         "grupo": "ÚNICO",
-        "rodada": 2,
-        "diaSemana": "TER",
+        "rodada": 1,
+        "diaSemana": "QUA",
         "data": "30/abr",
         "hora": "16h",
         "estadio": "SANTIAGO'S ARENA",
         "gols_mandante": "",
-        "partida": "EUC x MON",
+        "partida": "NPN x EUC",
         "gols_visitante": "",
-        "mandante": "euc.jpg",
-        "visitante": "mon.jpg"
+        "mandante": "npn.jpg",
+        "visitante": "euc.jpg"
     },
     {
         "id": 20,
         "grupo": "ÚNICO",
-        "rodada": 2,
-        "diaSemana": "TER",
+        "rodada": 1,
+        "diaSemana": "QUA",
         "data": "30/abr",
-        "hora": "17h",
+        "hora": "16h",
         "estadio": "SANTIAGO'S ARENA",
         "gols_mandante": "",
-        "partida": "URS x BIO",
+        "partida": "GEO x MON",
         "gols_visitante": "",
-        "mandante": "urs.jpg",
-        "visitante": "bio.jpg"
+        "mandante": "geo.jpg",
+        "visitante": "mon.jpg"
     },
     {
         "id": 21,
