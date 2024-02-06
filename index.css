@@ -136,7 +136,7 @@ h2 {
     padding: 2rem 2rem 0 2rem;
     font-size: 1.2rem;
     text-align: left;
-    max-height: 28rem;
+    /*max-height: 28rem;*/
     
 }
 
@@ -144,7 +144,7 @@ h2 {
     align-self: start;
     background-color: var(--color-secondary);
     max-width: 17rem;
-    max-height: 25rem;
+    /*max-height: 28rem;*/
     
 }
 
