@@ -21,7 +21,7 @@ body {
 
 header,
 .hero-section,
-.courses-section,
+.card-section,
 footer {
     border-color: var(--color-black);
     border-style: solid;
@@ -114,7 +114,7 @@ h2 {
     position: relative;
 }
 
-.courses-section {
+.card-section {
     padding-bottom: 8rem;
 }
 
